@@ -1,2 +1,2 @@
 # sideProj
-Oh No. A mine zone.
+Failed submit because of CLA restriction.
